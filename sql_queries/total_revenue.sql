@@ -1,0 +1,4 @@
+SELECT
+  SUM(amount) AS total_revenue
+FROM billing
+WHERE payment_status = 'Paid';

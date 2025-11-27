@@ -13,7 +13,6 @@ What are the daily appointment patterns?
 Which payment methods are most preferred?
 
 Project Structure:-
-
 Healthcare_SQL_PowerBI_Project/
 │── data/
 │   ├── appointments.csv
@@ -41,6 +40,7 @@ Healthcare_SQL_PowerBI_Project/
 │
 │── Healthcare_Analytics_Dashboard.pbix
 └── README.md
+
 
 SQL Analysis — Key Findings
 No-Show Rate: 26%, indicating operational inefficiency.
